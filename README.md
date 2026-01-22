@@ -15,8 +15,8 @@ Meu diferencial é a capacidade de unir a técnica (SQL, Python, BI) com a vivê
 ---
 
 ## 📊 Projetos em Destaque
-* [Nome do Projeto 1](link): Breve descrição do problema de negócio resolvido.
-* [Estudos Escola Preditiva](link): Repositório dedicado à evolução técnica em SQL e Inferência.
+* estudo_de_caso_atendimento_ps(https://github.com/jota-neto/estudo_de_caso_atendimento_ps)
+* Estudos Escola Preditiva(https://github.com/jota-neto/estudos-sql-preditiva): Repositório dedicado à evolução técnica em SQL e Inferência.
 
 ---
 

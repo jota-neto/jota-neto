@@ -60,9 +60,6 @@ Estudo estatístico com ETL estruturado e mensuração de risco por unidade de n
 Análise aplicada a dados operacionais na área da saúde.  
 👉 https://github.com/jota-neto/estudo_de_caso_atendimento_ps  
 
-🔹 **Estudos SQL – Escola Preditiva**  
-Repositório dedicado à evolução técnica em SQL e fundamentos analíticos.  
-👉 https://github.com/jota-neto/estudos-sql-preditiva  
 
 ---
 

@@ -76,8 +76,6 @@ Repositório dedicado à evolução técnica em SQL e fundamentos analíticos.
 
 ## 📫 Conecte-se comigo
 
-## 📫 Conecte-se comigo
-
 🔗 LinkedIn: [João Neto](https://www.linkedin.com/in/jo%C3%A3o-neto-18912b53/)  
 📂 GitHub: https://github.com/jota-neto  
 ✉️ Email: jnettto@gmail.com
